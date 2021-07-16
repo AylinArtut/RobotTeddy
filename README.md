@@ -1,8 +1,7 @@
 # OwnCraftings
 
-Vielleicht probiere ich mal ein interaktives Plüschtier mit süßem Kleidchen zu bauen. :blush:
+In diesem Projekt spiele ich IT-Chirurgien, indem ich in das Plüschi selbst erstellte Hard- und Software einsetze. :stuck_out_tongue_winking_eye: <br/>
+Und probiere mich zeitgleich als Designerin für's Kleidchen. :dress: :womans_hat:
 
 -------------------------------------------------------------------------------------------------------------------
 ![alt text](https://s20.directupload.net/images/210529/qy75kg26.jpg)
-
-![alt text](https://www.bilder-upload.eu/upload/2466b5-1621084431.jpg)
