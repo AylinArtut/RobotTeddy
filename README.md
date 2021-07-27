@@ -1,4 +1,4 @@
-# OwnCraftings
+# RobotTeddy
 
 In diesem Projekt spiele ich IT-Chirurgin, indem ich in das Plüschi selbst erstellte Hard- und Software einsetze. :stuck_out_tongue_winking_eye: <br/>
 Und probiere mich zeitgleich als Designerin für's Kleidchen. :dress: :womans_hat:
