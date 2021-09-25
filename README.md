@@ -6,4 +6,6 @@ Und probiere mich zeitgleich als Designerin für's Kleidchen. :dress: :womans_ha
 Der Quellcode zur Software wird public, sobald ich anfange.
 
 -------------------------------------------------------------------------------------------------------------------
-![alt text](https://s20.directupload.net/images/210529/qy75kg26.jpg)
+![alt text](https://i.ibb.co/TMM6f5J/1.jpg)
+
+![alt text](https://i.ibb.co/37G87d0/2.jpg)
